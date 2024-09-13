@@ -1,0 +1,2 @@
+# wisdom
+My person repo
